@@ -1,0 +1,39 @@
+Message: My name is Vuong Van Duy from group 1362
+Substitution key: SUBSTITUTION
+Transposition key: TRANSPOSITION
+
+Substitution matrix:
+    A D F G V X
+    * * * * * *
+A * S U B T I O
+D * N A C D E F
+F * G H J K L M
+G * P Q R V W X
+V * Y Z 0 1 2 3
+X * 4 5 6 7 8 9
+
+Cipher substitution text: FXVADADDFXDVAVAAGGADAXDAFAGGDDDADGADVADXGFAXFXFAGFAXADGAVGVXXFVV
+
+Matrix before transposition:
+12 9 1 4 10 8 6 11 2 13 3 7 5
+T R A N S P O S I T I O N
+- - - - - - - - - - - - -
+F X V A D A D D F X D V A
+V A A G G A D A X D A F A
+G G D D D A D G A D V A D
+X G F A X F X F A G F A X
+A D G A V G V X X F V V -
+
+Transposition matrix:
+1 2 3 4 5 6 7 8 9 10 11 12 13
+A I I N N O O P R S S T T
+- - - - - - - - - - - - -
+V F D A A D V A X D D F X
+A X A G A D F A A G A V D
+D A V D D D A A G D G G D
+F A F A X X A F G X F X G
+G X V A - V V G D V X A F
+
+Cipher text: VADFGFXAAXDAVFVAGDAAAADXDDDXVVFAAVAAAFGXAGGDDGDXVDAGFXFVGXAXDDGF
+
+Plain text: MYNAMEISVUONGVANDUYFROMGROUP1362

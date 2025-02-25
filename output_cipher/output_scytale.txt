@@ -1,0 +1,177 @@
+Message: Vuong_Van_Duy
+Number of edges: 8
+Offset: 4
+
+Char offser:#
+
+Encryption process.
+Encrypt matrix:
+# # # 
+# V u 
+o n g 
+_ V a 
+n _ D 
+u y   
+      
+      
+
+Cipher text: o_nuVnV_yugaD
+
+Decryption process.
+Decrypt matrix:
+# # # 
+# V u 
+o n g 
+_ V a 
+n _ D 
+u y  
+   
+   
+
+Plain text: Vuong_Van_Duy
+
+Brute force attack:
+Key: (1, 1). Plain text: o_nuVnV_yugaD
+Key: (1, 2). Plain text: o_nuVnV_yugaD
+Key: (1, 3). Plain text: o_nuVnV_yugaD
+Key: (1, 4). Plain text: o_nuVnV_yugaD
+Key: (1, 5). Plain text: o_nuVnV_yugaD
+Key: (1, 6). Plain text: o_nuVnV_yugaD
+Key: (1, 7). Plain text: o_nuVnV_yugaD
+Key: (1, 8). Plain text: o_nuVnV_yugaD
+Key: (1, 9). Plain text: o_nuVnV_yugaD
+Key: (1, 10). Plain text: o_nuVnV_yugaD
+Key: (1, 11). Plain text: o_nuVnV_yugaD
+Key: (1, 12). Plain text: o_nuVnV_yugaD
+Key: (2, 1). Plain text: _un_uaonVVygD
+Key: (2, 2). Plain text: nVVygDo_un_ua
+Key: (2, 3). Plain text: un_uao_nVVygD
+Key: (2, 4). Plain text: VVygDo_nun_ua
+Key: (2, 5). Plain text: n_uao_nuVVygD
+Key: (2, 6). Plain text: VygDo_nuVn_ua
+Key: (2, 7). Plain text: _uao_nuVnVygD
+Key: (2, 8). Plain text: ygDo_nuVnV_ua
+Key: (2, 9). Plain text: uao_nuVnV_ygD
+Key: (2, 10). Plain text: gDo_nuVnV_yua
+Key: (2, 11). Plain text: ao_nuVnV_yugD
+Key: (2, 12). Plain text: Do_nuVnV_yuga
+Key: (3, 1). Plain text: nnyaouVuD_V_g
+Key: (3, 2). Plain text: V_gonnya_uVuD
+Key: (3, 3). Plain text: VuaonV_gD_uny
+Key: (3, 4). Plain text: yaonVVuD_un_g
+Key: (3, 5). Plain text: gonVVya_un_uD
+Key: (3, 6). Plain text: aonVVygD_un_u
+Key: (3, 7). Plain text: onVVygD_un_ua
+Key: (3, 8). Plain text: _un_uaonVVygD
+Key: (3, 9). Plain text: _un_uaDonVVyg
+Key: (3, 10). Plain text: nVVygDo_un_ua
+Key: (3, 11). Plain text: un_uao_nVVygD
+Key: (3, 12). Plain text: un_uaDo_nVVyg
+Key: (4, 1). Plain text: u_goVya_nuDnV
+Key: (4, 2). Plain text: Vgou_a_VyDnnu
+Key: (4, 3). Plain text: uouVg_V_annyD
+Key: (4, 4). Plain text: gouVya_V_uDnn
+Key: (4, 5). Plain text: ouVua_V_gDnny
+Key: (4, 6). Plain text: nnyaouVuD_V_g
+Key: (4, 7). Plain text: V_gonnya_uVuD
+Key: (4, 8). Plain text: V_uaonnygD_uV
+Key: (4, 9). Plain text: VuaonV_gD_uny
+Key: (4, 10). Plain text: yaonVVuD_un_g
+Key: (4, 11). Plain text: gonVVya_un_uD
+Key: (4, 12). Plain text: uaonVVygD_un_
+Key: (5, 1). Plain text: Vuong_Van_Duy
+Key: (5, 2). Plain text: yoVu_ngnVau_D
+Key: (5, 3). Plain text: uouVg_V_annyD
+Key: (5, 4). Plain text: oV_g_nyanVuDu
+Key: (5, 5). Plain text: u_goVya_nuDnV
+Key: (5, 6). Plain text: Vgou_a_VyDnnu
+Key: (5, 7). Plain text: uouVg_V_annyD
+Key: (5, 8). Plain text: _gounya_VVuDn
+Key: (5, 9). Plain text: gouVya_V_uDnn
+Key: (5, 10). Plain text: ouVua_V_gDnny
+Key: (5, 11). Plain text: nnyaouVuD_V_g
+Key: (5, 12). Plain text: V_gonnya_uVuD
+Key: (6, 1). Plain text: Vuong_Van_Duy
+Key: (6, 2). Plain text: yoVu_ngnVau_D
+Key: (6, 3). Plain text: onu_Vgn_auyDV
+Key: (6, 4). Plain text: Vuong_Van_Duy
+Key: (6, 5). Plain text: yoVu_ngnVau_D
+Key: (6, 6). Plain text: Vgou_a_VyDnnu
+Key: (6, 7). Plain text: uouVg_V_annyD
+Key: (6, 8). Plain text: oV_g_nyanVuDu
+Key: (6, 9). Plain text: u_goVya_nuDnV
+Key: (6, 10). Plain text: Vgou_a_VyDnnu
+Key: (6, 11). Plain text: uouVg_V_annyD
+Key: (6, 12). Plain text: V_gonnya_uVuD
+Key: (7, 1). Plain text: Vo__ynuugVanD
+Key: (7, 2). Plain text: yoVu_ngnVau_D
+Key: (7, 3). Plain text: onu_Vgn_auyDV
+Key: (7, 4). Plain text: Vuong_Van_Duy
+Key: (7, 5). Plain text: yoVu_ngnVau_D
+Key: (7, 6). Plain text: onu_Vgn_auyDV
+Key: (7, 7). Plain text: Vuong_Van_Duy
+Key: (7, 8). Plain text: yoVu_ngnVau_D
+Key: (7, 9). Plain text: u_goVya_nuDnV
+Key: (7, 10). Plain text: Vgou_a_VyDnnu
+Key: (7, 11). Plain text: uouVg_V_annyD
+Key: (7, 12). Plain text: oV_g_nyanVuDu
+Key: (8, 1). Plain text: Vo__ynuugVanD
+Key: (8, 2). Plain text: o__ynuugVanDV
+Key: (8, 3). Plain text: Vo__ynuugVanD
+Key: (8, 4). Plain text: Vuong_Van_Duy
+Key: (8, 5). Plain text: yoVu_ngnVau_D
+Key: (8, 6). Plain text: onu_Vgn_auyDV
+Key: (8, 7). Plain text: Vuong_Van_Duy
+Key: (8, 8). Plain text: yoVu_ngnVau_D
+Key: (8, 9). Plain text: onu_Vgn_auyDV
+Key: (8, 10). Plain text: Vuong_Van_Duy
+Key: (8, 11). Plain text: yoVu_ngnVau_D
+Key: (8, 12). Plain text: oV_g_nyanVuDu
+Key: (9, 1). Plain text: Vo__ynuugVanD
+Key: (9, 2). Plain text: o__ynuugVanDV
+Key: (9, 3). Plain text: Vo__ynuugVanD
+Key: (9, 4). Plain text: o__ynuugVanDV
+Key: (9, 5). Plain text: Vo__ynuugVanD
+Key: (9, 6). Plain text: onu_Vgn_auyDV
+Key: (9, 7). Plain text: Vuong_Van_Duy
+Key: (9, 8). Plain text: yoVu_ngnVau_D
+Key: (9, 9). Plain text: onu_Vgn_auyDV
+Key: (9, 10). Plain text: Vuong_Van_Duy
+Key: (9, 11). Plain text: yoVu_ngnVau_D
+Key: (9, 12). Plain text: onu_Vgn_auyDV
+Key: (10, 1). Plain text: Vo__ynuugVanD
+Key: (10, 2). Plain text: o__ynuugVanDV
+Key: (10, 3). Plain text: Vo__ynuugVanD
+Key: (10, 4). Plain text: o__ynuugVanDV
+Key: (10, 5). Plain text: Vo__ynuugVanD
+Key: (10, 6). Plain text: o__ynuugVanDV
+Key: (10, 7). Plain text: Vo__ynuugVanD
+Key: (10, 8). Plain text: yoVu_ngnVau_D
+Key: (10, 9). Plain text: onu_Vgn_auyDV
+Key: (10, 10). Plain text: Vuong_Van_Duy
+Key: (10, 11). Plain text: yoVu_ngnVau_D
+Key: (10, 12). Plain text: onu_Vgn_auyDV
+Key: (11, 1). Plain text: Vo__ynuugVanD
+Key: (11, 2). Plain text: o__ynuugVanDV
+Key: (11, 3). Plain text: Vo__ynuugVanD
+Key: (11, 4). Plain text: o__ynuugVanDV
+Key: (11, 5). Plain text: Vo__ynuugVanD
+Key: (11, 6). Plain text: o__ynuugVanDV
+Key: (11, 7). Plain text: Vo__ynuugVanD
+Key: (11, 8). Plain text: o__ynuugVanDV
+Key: (11, 9). Plain text: Vo__ynuugVanD
+Key: (11, 10). Plain text: Vuong_Van_Duy
+Key: (11, 11). Plain text: yoVu_ngnVau_D
+Key: (11, 12). Plain text: onu_Vgn_auyDV
+Key: (12, 1). Plain text: Vo__ynuugVanD
+Key: (12, 2). Plain text: o__ynuugVanDV
+Key: (12, 3). Plain text: Vo__ynuugVanD
+Key: (12, 4). Plain text: o__ynuugVanDV
+Key: (12, 5). Plain text: Vo__ynuugVanD
+Key: (12, 6). Plain text: o__ynuugVanDV
+Key: (12, 7). Plain text: Vo__ynuugVanD
+Key: (12, 8). Plain text: o__ynuugVanDV
+Key: (12, 9). Plain text: Vo__ynuugVanD
+Key: (12, 10). Plain text: o__ynuugVanDV
+Key: (12, 11). Plain text: Vo__ynuugVanD
+Key: (12, 12). Plain text: onu_Vgn_auyDV

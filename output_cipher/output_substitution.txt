@@ -1,0 +1,7 @@
+Message: Vuong_Van_Duy
+Key word: password
+Key shift: 5
+Alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+Cipher alphabet: uvxyzpaswordABCDEFGHIJKLMNOPQRSTUVWXYZbcefghijklmnqt
+Cipher text: JkecU_JOc_ykq
+Plain text: Vuong_Van_Duy

@@ -1,0 +1,250 @@
+Message: Vuong_Van_Duy
+Num_rows: 4
+Offset: 3
+Char_offset: #
+
+Encryption process.
+Matrix encrypt:
+#           n           _       
+  #       o   g       n   D     
+    #   u       _   a       u   
+      V           V           y 
+
+cipher_text: n_ognDu_auVVy
+
+Decryption process.
+Trace matrix:
+#           *           *       
+  #       *   *       *   *     
+    #   *       *   *       *   
+      *           *           * 
+
+Matrix decrypt:
+#           n           _       
+  #       o   g       n   D     
+    #   u       _   a       u   
+      V           V           y 
+
+plain_text: Vuong_Van_Duy
+
+Brute force attack.
+Key: (2, 0). plain_text: n__aougVnVDyu
+Key: (2, 1). plain_text: un__aougVnVDy
+Key: (2, 2). plain_text: n__aougVnVDyu
+Key: (2, 3). plain_text: un__aougVnVDy
+Key: (2, 4). plain_text: n__aougVnVDyu
+Key: (2, 5). plain_text: un__aougVnVDy
+Key: (2, 6). plain_text: n__aougVnVDyu
+Key: (2, 7). plain_text: un__aougVnVDy
+Key: (2, 8). plain_text: n__aougVnVDyu
+Key: (2, 9). plain_text: un__aougVnVDy
+Key: (2, 10). plain_text: n__aougVnVDyu
+Key: (2, 11). plain_text: un__aougVnVDy
+Key: (2, 12). plain_text: n__aougVnVDyu
+Key: (2, 13). plain_text: un__aougVnVDy
+Key: (2, 14). plain_text: n__aougVnVDyu
+Key: (2, 15). plain_text: un__aougVnVDy
+Key: (2, 16). plain_text: n__aougVnVDyu
+Key: (2, 17). plain_text: un__aougVnVDy
+Key: (2, 18). plain_text: n__aougVnVDyu
+Key: (2, 19). plain_text: un__aougVnVDy
+Key: (3, 0). plain_text: nnVD_uV_oayug
+Key: (3, 1). plain_text: gVnnDVu__yaou
+Key: (3, 2). plain_text: ugnnVD_uV_oay
+Key: (3, 3). plain_text: gnnVD_uV_oayu
+Key: (3, 4). plain_text: nnVD_uV_oayug
+Key: (3, 5). plain_text: gVnnDVu__yaou
+Key: (3, 6). plain_text: ugnnVD_uV_oay
+Key: (3, 7). plain_text: gnnVD_uV_oayu
+Key: (3, 8). plain_text: nnVD_uV_oayug
+Key: (3, 9). plain_text: gVnnDVu__yaou
+Key: (3, 10). plain_text: ugnnVD_uV_oay
+Key: (3, 11). plain_text: gnnVD_uV_oayu
+Key: (3, 12). plain_text: nnVD_uV_oayug
+Key: (3, 13). plain_text: gVnnDVu__yaou
+Key: (3, 14). plain_text: ugnnVD_uV_oay
+Key: (3, 15). plain_text: gnnVD_uV_oayu
+Key: (3, 16). plain_text: nnVD_uV_oayug
+Key: (3, 17). plain_text: gVnnDVu__yaou
+Key: (3, 18). plain_text: ugnnVD_uV_oay
+Key: (3, 19). plain_text: gnnVD_uV_oayu
+Key: (4, 0). plain_text: ng_Van_DuyVuo
+Key: (4, 1). plain_text: o_VagnnuyVD_u
+Key: (4, 2). plain_text: uV_ongayun_DV
+Key: (4, 3). plain_text: Vuong_Van_Duy
+Key: (4, 4). plain_text: uong_Van_DuyV
+Key: (4, 5). plain_text: ong_Van_DuyVu
+Key: (4, 6). plain_text: ng_Van_DuyVuo
+Key: (4, 7). plain_text: o_VagnnuyVD_u
+Key: (4, 8). plain_text: uV_ongayun_DV
+Key: (4, 9). plain_text: Vuong_Van_Duy
+Key: (4, 10). plain_text: uong_Van_DuyV
+Key: (4, 11). plain_text: ong_Van_DuyVu
+Key: (4, 12). plain_text: ng_Van_DuyVuo
+Key: (4, 13). plain_text: o_VagnnuyVD_u
+Key: (4, 14). plain_text: uV_ongayun_DV
+Key: (4, 15). plain_text: Vuong_Van_Duy
+Key: (4, 16). plain_text: uong_Van_DuyV
+Key: (4, 17). plain_text: ong_Van_DuyVu
+Key: (4, 18). plain_text: ng_Van_DuyVuo
+Key: (4, 19). plain_text: o_VagnnuyVD_u
+Key: (5, 0). plain_text: noDaVuug_n_Vy
+Key: (5, 1). plain_text: _n_VaDonguuyV
+Key: (5, 2). plain_text: g_Van_noDuyVu
+Key: (5, 3). plain_text: _Van_noDuyVug
+Key: (5, 4). plain_text: VaDonguuyV_n_
+Key: (5, 5). plain_text: uuong_VyVan_D
+Key: (5, 6). plain_text: uong_VyVan_Du
+Key: (5, 7). plain_text: onguuyV_n_DaV
+Key: (5, 8). plain_text: noDaVuug_n_Vy
+Key: (5, 9). plain_text: _n_VaDonguuyV
+Key: (5, 10). plain_text: g_Van_noDuyVu
+Key: (5, 11). plain_text: _Van_noDuyVug
+Key: (5, 12). plain_text: VaDonguuyV_n_
+Key: (5, 13). plain_text: uuong_VyVan_D
+Key: (5, 14). plain_text: uong_VyVan_Du
+Key: (5, 15). plain_text: onguuyV_n_DaV
+Key: (5, 16). plain_text: noDaVuug_n_Vy
+Key: (5, 17). plain_text: _n_VaDonguuyV
+Key: (5, 18). plain_text: g_Van_noDuyVu
+Key: (5, 19). plain_text: _Van_noDuyVug
+Key: (6, 0). plain_text: noDaVyVuug_n_
+Key: (6, 1). plain_text: _n_VyVaDonguu
+Key: (6, 2). plain_text: guuyV_n_noDaV
+Key: (6, 3). plain_text: DaVuug_non_Vy
+Key: (6, 4). plain_text: _VaDg_nonuuyV
+Key: (6, 5). plain_text: VaDg_nonuuyV_
+Key: (6, 6). plain_text: uug_non_VyVaD
+Key: (6, 7). plain_text: _n_noDaVyVuug
+Key: (6, 8). plain_text: DonguaVyVu_n_
+Key: (6, 9). plain_text: onguaVyVu_n_D
+Key: (6, 10). plain_text: noDaVyVuug_n_
+Key: (6, 11). plain_text: _n_VyVaDonguu
+Key: (6, 12). plain_text: guuyV_n_noDaV
+Key: (6, 13). plain_text: DaVuug_non_Vy
+Key: (6, 14). plain_text: _VaDg_nonuuyV
+Key: (6, 15). plain_text: VaDg_nonuuyV_
+Key: (6, 16). plain_text: uug_non_VyVaD
+Key: (6, 17). plain_text: _n_noDaVyVuug
+Key: (6, 18). plain_text: DonguaVyVu_n_
+Key: (6, 19). plain_text: onguaVyVu_n_D
+Key: (7, 0). plain_text: nonuaVyVu_Dg_
+Key: (7, 1). plain_text: _nuaVyVu_Dong
+Key: (7, 2). plain_text: guaVyVu_n_noD
+Key: (7, 3). plain_text: DaVyVuug_non_
+Key: (7, 4). plain_text: _VyVaDg_nonuu
+Key: (7, 5). plain_text: uyV_Dg_nonuaV
+Key: (7, 6). plain_text: Vu_Dg_nonuaVy
+Key: (7, 7). plain_text: u_Dg_nonuaVyV
+Key: (7, 8). plain_text: _Dg_nonuaVyVu
+Key: (7, 9). plain_text: Dg_nonuaVyVu_
+Key: (7, 10). plain_text: g_nonuaVyVu_D
+Key: (7, 11). plain_text: _nonuaVyVu_Dg
+Key: (7, 12). plain_text: nonuaVyVu_Dg_
+Key: (7, 13). plain_text: _nuaVyVu_Dong
+Key: (7, 14). plain_text: guaVyVu_n_noD
+Key: (7, 15). plain_text: DaVyVuug_non_
+Key: (7, 16). plain_text: _VyVaDg_nonuu
+Key: (7, 17). plain_text: uyV_Dg_nonuaV
+Key: (7, 18). plain_text: Vu_Dg_nonuaVy
+Key: (7, 19). plain_text: u_Dg_nonuaVyV
+Key: (8, 0). plain_text: n_onuaVyVu_Dg
+Key: (8, 1). plain_text: nonuaVyVu_Dg_
+Key: (8, 2). plain_text: onuaVyVu_Dg_n
+Key: (8, 3). plain_text: nuaVyVu_Dg_no
+Key: (8, 4). plain_text: uaVyVu_Dg_non
+Key: (8, 5). plain_text: aVyVu_Dg_nonu
+Key: (8, 6). plain_text: VyVu_Dg_nonua
+Key: (8, 7). plain_text: yVu_Dg_nonuaV
+Key: (8, 8). plain_text: Vu_Dg_nonuaVy
+Key: (8, 9). plain_text: u_Dg_nonuaVVy
+Key: (8, 10). plain_text: _Dg_nonuauVyV
+Key: (8, 11). plain_text: Dg_nonu_aVyVu
+Key: (8, 12). plain_text: g_nonDuaVyVu_
+Key: (8, 13). plain_text: _nognuaVyVu_D
+Key: (8, 14). plain_text: n_onuaVyVu_Dg
+Key: (8, 15). plain_text: nonuaVyVu_Dg_
+Key: (8, 16). plain_text: onuaVyVu_Dg_n
+Key: (8, 17). plain_text: nuaVyVu_Dg_no
+Key: (8, 18). plain_text: uaVyVu_Dg_non
+Key: (8, 19). plain_text: aVyVu_Dg_nonu
+Key: (9, 0). plain_text: n_ognuaVyVu_D
+Key: (9, 1). plain_text: n_onuaVyVu_Dg
+Key: (9, 2). plain_text: nonuaVyVu_Dg_
+Key: (9, 3). plain_text: onuaVyVu_Dg_n
+Key: (9, 4). plain_text: nuaVyVu_Dgo_n
+Key: (9, 5). plain_text: uaVyVu_Dng_no
+Key: (9, 6). plain_text: aVyVu_uDg_non
+Key: (9, 7). plain_text: VyVua_Dg_nonu
+Key: (9, 8). plain_text: yVVu_Dg_nonua
+Key: (9, 9). plain_text: yVu_Dg_nonuaV
+Key: (9, 10). plain_text: Vu_Dg_nonuaVy
+Key: (9, 11). plain_text: u_Dg_nonuaVVy
+Key: (9, 12). plain_text: _Dg_nonuauVVy
+Key: (9, 13). plain_text: Dg_nonu_auVyV
+Key: (9, 14). plain_text: g_nonDu_aVyVu
+Key: (9, 15). plain_text: _nognDuaVyVu_
+Key: (9, 16). plain_text: n_ognuaVyVu_D
+Key: (9, 17). plain_text: n_onuaVyVu_Dg
+Key: (9, 18). plain_text: nonuaVyVu_Dg_
+Key: (9, 19). plain_text: onuaVyVu_Dg_n
+Key: (10, 0). plain_text: n_ognDuaVyVu_
+Key: (10, 1). plain_text: n_ognuaVyVu_D
+Key: (10, 2). plain_text: n_onuaVyVu_Dg
+Key: (10, 3). plain_text: nonuaVyVu_Dg_
+Key: (10, 4). plain_text: onuaVyVu_Dg_n
+Key: (10, 5). plain_text: nuaVyVu_Dgo_n
+Key: (10, 6). plain_text: uaVyVu_Dngo_n
+Key: (10, 7). plain_text: aVyVu_uDng_no
+Key: (10, 8). plain_text: VyVua_uDg_non
+Key: (10, 9). plain_text: yVVua_Dg_nonu
+Key: (10, 10). plain_text: yVVu_Dg_nonua
+Key: (10, 11). plain_text: yVu_Dg_nonuaV
+Key: (10, 12). plain_text: Vu_Dg_nonuaVy
+Key: (10, 13). plain_text: u_Dg_nonuaVVy
+Key: (10, 14). plain_text: _Dg_nonuauVVy
+Key: (10, 15). plain_text: Dg_nonu_auVVy
+Key: (10, 16). plain_text: g_nonDu_auVyV
+Key: (10, 17). plain_text: _nognDu_aVyVu
+Key: (10, 18). plain_text: n_ognDuaVyVu_
+Key: (10, 19). plain_text: n_ognuaVyVu_D
+Key: (11, 0). plain_text: n_ognDu_aVyVu
+Key: (11, 1). plain_text: n_ognDuaVyVu_
+Key: (11, 2). plain_text: n_ognuaVyVu_D
+Key: (11, 3). plain_text: n_onuaVyVu_Dg
+Key: (11, 4). plain_text: nonuaVyVu_Dg_
+Key: (11, 5). plain_text: onuaVyVu_Dg_n
+Key: (11, 6). plain_text: nuaVyVu_Dgo_n
+Key: (11, 7). plain_text: uaVyVu_Dngo_n
+Key: (11, 8). plain_text: aVyVu_uDngo_n
+Key: (11, 9). plain_text: VyVua_uDng_no
+Key: (11, 10). plain_text: yVVua_uDg_non
+Key: (11, 11). plain_text: yVVua_Dg_nonu
+Key: (11, 12). plain_text: yVVu_Dg_nonua
+Key: (11, 13). plain_text: yVu_Dg_nonuaV
+Key: (11, 14). plain_text: Vu_Dg_nonuaVy
+Key: (11, 15). plain_text: u_Dg_nonuaVVy
+Key: (11, 16). plain_text: _Dg_nonuauVVy
+Key: (11, 17). plain_text: Dg_nonu_auVVy
+Key: (11, 18). plain_text: g_nonDu_auVVy
+Key: (11, 19). plain_text: _nognDu_auVyV
+Key: (12, 0). plain_text: n_ognDu_auVyV
+Key: (12, 1). plain_text: n_ognDu_aVyVu
+Key: (12, 2). plain_text: n_ognDuaVyVu_
+Key: (12, 3). plain_text: n_ognuaVyVu_D
+Key: (12, 4). plain_text: n_onuaVyVu_Dg
+Key: (12, 5). plain_text: nonuaVyVu_Dg_
+Key: (12, 6). plain_text: onuaVyVu_Dg_n
+Key: (12, 7). plain_text: nuaVyVu_Dgo_n
+Key: (12, 8). plain_text: uaVyVu_Dngo_n
+Key: (12, 9). plain_text: aVyVu_uDngo_n
+Key: (12, 10). plain_text: VyVua_uDngo_n
+Key: (12, 11). plain_text: yVVua_uDng_no
+Key: (12, 12). plain_text: yVVua_uDg_non
+Key: (12, 13). plain_text: yVVua_Dg_nonu
+Key: (12, 14). plain_text: yVVu_Dg_nonua
+Key: (12, 15). plain_text: yVu_Dg_nonuaV
+Key: (12, 16). plain_text: Vu_Dg_nonuaVy
+Key: (12, 17). plain_text: u_Dg_nonuaVVy
+Key: (12, 18). plain_text: _Dg_nonuauVVy
+Key: (12, 19). plain_text: Dg_nonu_auVVy

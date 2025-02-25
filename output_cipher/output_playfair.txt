@@ -1,0 +1,6 @@
+Key word: SECRET
+Alphabet key: SECRTABDFGHIKLMNOPQUVWXYZ
+Message: Hello Vuong Van Duy
+Message formated: HELXLOVUONGVANDUYX
+Cipher text: ISKYIQZNPOAZHVGPZY
+Decrypted message: HELXLOVUONGVANDUYX

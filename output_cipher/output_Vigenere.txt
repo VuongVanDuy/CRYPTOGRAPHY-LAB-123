@@ -1,0 +1,44 @@
+Message: My name is Vuong Van Duy from group 1362
+Key: SECRET
+Vigenere Table:
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S
+
+Encryption process.
+Sub Messages:
+MYNAME
+ISVUON
+GVANDU
+YFROMG
+ROUP
+
+Sub Cipher Texts:
+ECPRQX
+AWXLSG
+YZCEHN
+QJTFQZ
+JSWG
+
+Cipher Text: Ec prqx aw Xlsgy Zce Hnq jtfq zjswg 1362
+
+Decryption process.
+Sub Cipher Texts:
+ECPRQX
+AWXLSG
+YZCEHN
+QJTFQZ
+JSWG
+
+Sub Plaintexts:
+MYNAME
+ISVUON
+GVANDU
+YFROMG
+ROUP
+
+Plaintext: My name is Vuong Van Duy from group 1362

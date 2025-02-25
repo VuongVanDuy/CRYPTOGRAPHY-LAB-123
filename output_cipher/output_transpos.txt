@@ -1,0 +1,52 @@
+Message: My name is Vuong Van Duy from group 1362
+Key word: secret
+
+Encryption process.
+Message matrix:
+5 2 1 4 3 6 
+s e c r e t 
+M y   n a m 
+e   i s   V 
+u o n g   V 
+a n   D u y 
+  f r o m   
+g r o u p   
+1 3 6 2 - - 
+
+Encrypt matrix:
+1 2 3 4 5 6 
+c e e r s t 
+- - - - - - 
+  y a n M m 
+i     s e V 
+n o   g u V 
+  n u D a y 
+r f m o     
+o r p u g   
+6 3 - 2 1 - 
+
+Encrypt:  in ro6y onfr3a  umpnsgDou2Meua g1mVVy  
+
+Decryption process.
+Encrypt matrix:
+1 2 3 4 5 6 
+c e e r s t 
+- - - - - - 
+  y a n M m 
+i     s e V 
+n o   g u V 
+  n u D a y 
+r f m o     
+o r p u g   
+6 3 - 2 1 - 
+
+Decrypt matrix:
+M y   n a m 
+e   i s   V 
+u o n g   V 
+a n   D u y 
+  f r o m   
+g r o u p   
+1 3 6 2 - - 
+
+Decrypt: My name is Vuong Van Duy from group 1362

@@ -1,0 +1,32 @@
+Message: Vuong_Van_Duy
+Key: 3
+Cipher text: Yxrqj_Ydq_Gxb
+Plain text: Vuong_Van_Duy
+
+Attack:
+Key: 1, Plain text: Xwqpi_Xcp_Fwa
+Key: 2, Plain text: Wvpoh_Wbo_Evz
+Key: 3, Plain text: Vuong_Van_Duy
+Key: 4, Plain text: Utnmf_Uzm_Ctx
+Key: 5, Plain text: Tsmle_Tyl_Bsw
+Key: 6, Plain text: Srlkd_Sxk_Arv
+Key: 7, Plain text: Rqkjc_Rwj_Zqu
+Key: 8, Plain text: Qpjib_Qvi_Ypt
+Key: 9, Plain text: Poiha_Puh_Xos
+Key: 10, Plain text: Onhgz_Otg_Wnr
+Key: 11, Plain text: Nmgfy_Nsf_Vmq
+Key: 12, Plain text: Mlfex_Mre_Ulp
+Key: 13, Plain text: Lkedw_Lqd_Tko
+Key: 14, Plain text: Kjdcv_Kpc_Sjn
+Key: 15, Plain text: Jicbu_Job_Rim
+Key: 16, Plain text: Ihbat_Ina_Qhl
+Key: 17, Plain text: Hgazs_Hmz_Pgk
+Key: 18, Plain text: Gfzyr_Gly_Ofj
+Key: 19, Plain text: Feyxq_Fkx_Nei
+Key: 20, Plain text: Edxwp_Ejw_Mdh
+Key: 21, Plain text: Dcwvo_Div_Lcg
+Key: 22, Plain text: Cbvun_Chu_Kbf
+Key: 23, Plain text: Bautm_Bgt_Jae
+Key: 24, Plain text: Aztsl_Afs_Izd
+Key: 25, Plain text: Zysrk_Zer_Hyc
+Key: 26, Plain text: Yxrqj_Ydq_Gxb
